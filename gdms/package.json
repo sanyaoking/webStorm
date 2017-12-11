@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "iview": "^2.7.4",
+    "vue-cli": "^2.9.2",
+    "webpack": "^3.10.0"
+  },
+  "devDependencies": {
+    "postcss-import": "^11.0.0"
+  }
+}

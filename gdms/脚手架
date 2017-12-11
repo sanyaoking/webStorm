@@ -1,0 +1,30 @@
+--https://webpack.js.org/concepts/
+--全部使用本地安装，保证上传版本服务器后，其他用户可以直接使用
+--安装webpack
+sudo cnpm install --save   webpack
+--安装vue
+sudo cnpm install --save vue-cli
+--创建项目
+sudo vue init webpack my-project
+cd gdmsProject/
+--初始化项目
+cnpm install
+--运行dev
+cnpm run dev
+
+--安装iview前端组件
+cnpm install iview --save
+
+
+
+--vue中比较好用的前端组件
+vux
+vant
+mint-ui
+--element-ui组件elementui
+cnpm i element-ui --save
+---https://www.iviewui.com/components/grid   iviewui的api
+cnpm install iview --save
+iviewui
+--常用前端组件
+https://shimo.im/doc/LkpdnWxM1j40BDJj/
